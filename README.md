@@ -1,2 +1,2 @@
 # Numpy
-Learn Some Important of Panda's Numpy Module
+Learn Some Important Methods of Panda's Numpy Module
